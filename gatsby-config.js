@@ -70,7 +70,7 @@ const siteMetadata = {
         /* Leave the below value completely empty (no space either) if you don't want a contact form. */
         api_url: "./test.json",
         description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan arcu. Proin ac consequat arcu.`,
-        mail: "hi@akzhy.com",
+        mail: "hi@b26.io,
         phone: "000-000-0000",
         address: "1234 \nLocation \nLocation"
     }
