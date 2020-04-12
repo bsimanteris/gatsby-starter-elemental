@@ -1,11 +1,11 @@
 const siteMetadata = {
-    title: `Elemental`,
+    title: `B26`,
     siteUrl: `http://localhost`,
     capitalizeTitleOnHome: true,
     logo: `/images/logo.png`,
     icon: `/images/icon.png`,
     titleImage: `/images/wall.jpg`,
-    introTag: `PHOTOGRAPHER | VIDEOGRAPHER`,
+    introTag: `WEB DEVELOPER | GRAPHIC DESIGNER`,
     description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan arcu. Proin ac consequat arcu.`,
     author: `@_akzhy`,
     blogItemsPerPage: 10,
